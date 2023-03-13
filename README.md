@@ -1,2 +1,8 @@
-Html를 이용한 인생네컷 구현 프로젝트 입니다. 사진들과 코드 올렸으니
-사용하실 분들께서는 참고 하셔서 사용 하셔도 좋을것 같습니다.
+# 네컷사진 with HTML
+- 네컷사진(인생네컷, 하루필름)구현 개인 프로젝트
+
+## 기간
+ - 2023.02.01 ~ 2023.02.04 (3일)
+
+## 언어
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
